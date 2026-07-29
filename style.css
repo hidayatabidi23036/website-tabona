@@ -380,6 +380,14 @@ transition:.3s;
     border:none;
 
 }
+.info-box{
+    display:flex;
+    flex-direction:column;
+}
+/* ===========================
+   CONTACT INFO
+=========================== */
+
 
 .potensi-item:hover{
 
